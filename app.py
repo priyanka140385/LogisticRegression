@@ -94,9 +94,9 @@
  ],
  "metadata": {
   "kernelspec": {
-   "display_name": "Python [conda env:llm1]",
+   "display_name": "Python 3 (ipykernel)",
    "language": "python",
-   "name": "conda-env-llm1-py"
+   "name": "python3"
   },
   "language_info": {
    "codemirror_mode": {
@@ -108,7 +108,7 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
-   "version": "3.12.9"
+   "version": "3.12.4"
   }
  },
  "nbformat": 4,
